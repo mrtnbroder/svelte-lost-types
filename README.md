@@ -1,3 +1,3 @@
-# sveltekit-j7gwyc
+## Svelte-Kit Lost Types
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/sveltekit-j7gwyc)
+inside `lib` un/comment L13 and run `yarn package` and take a look at the output `Button.svelte.d.ts`
